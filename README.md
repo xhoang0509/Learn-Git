@@ -28,3 +28,5 @@ Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 // git checkout -b <branch> (branching)
 // git checkout <branch>
 // git merge
+// A ---> B
+// checkout A -> git merge B
