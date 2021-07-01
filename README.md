@@ -1,13 +1,21 @@
 This project is just a demo how to use git
 
-Learn from CoderX
+#Learn from CoderX
 Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 
+
+# Unit 1
 // git init
 // git status
 // git add
 // git commit
 
+# Unit 2
 // git log
 // git show
 // git diff
+
+# Unit 3
+// working directory
+// staging area
+// git repository
