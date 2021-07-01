@@ -30,3 +30,12 @@ Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 // git merge
 // A ---> B
 // checkout A -> git merge B
+
+# Unit 6
+// git reset --soft <to_commit>
+// git reset --mixed <to_commit>
+// git reset --hard <to_commit>
+
+# Unit 8
+// git revert <commit>
+// .gitignore
