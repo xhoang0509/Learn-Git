@@ -19,3 +19,7 @@ Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 // working directory
 // staging area
 // git repository
+
+# Unit 4
+// checkout - change file
+// reset
