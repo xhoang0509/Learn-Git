@@ -1,0 +1,22 @@
+{
+  "name": "first-commit",
+  "version": "1.0.0",
+  "description": "This project is just a demo how to use git",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhoang0509/Learn-Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhoang0509/Learn-Git/issues"
+  },
+  "homepage": "https://github.com/xhoang0509/Learn-Git#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
