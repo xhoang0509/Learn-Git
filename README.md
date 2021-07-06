@@ -1,6 +1,6 @@
 This project is just a demo how to use git
 
-#Learn from CoderX
+# Learn from CoderX
 Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 
 
@@ -54,9 +54,26 @@ Link: https://youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q
 
 ```
 
-# Unit 8
+# Unit 7
 ```
  git revert <commit>
  .gitignore
 
+```
+
+# Unit 8
+```
+ git clone
+ git pull
+
+```
+
+# Unit 9
+```
+ Pull request
+ 1. git checkout -n <feature branch>
+ 2. git push origin <branch>
+ 3. create a pull request on Github
+ 4. review code
+ 5. merge to master
 ```
